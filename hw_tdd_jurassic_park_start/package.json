@@ -1,0 +1,15 @@
+{
+  "name": "4_lab_hw_tdd_jurrasic_park",
+  "version": "1.0.0",
+  "description": "",
+  "main": "park.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
